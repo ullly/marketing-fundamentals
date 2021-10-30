@@ -11,7 +11,7 @@ categories: marketing
 ## 2. Your First Steps in Online Success
 - Establish what you want to achieve. 
 - Start small and work in increments. 
-- Search Engine Optimization (SEO) is free. 
+- Search Engine Optimisation (SEO) is free. 
 - Search Engine Marketing (SEM) is paid. 
 - Display advertising is advertising on another website or app. 
 - Social media marketing and email marketing are other common forms 
@@ -74,7 +74,7 @@ part of a business strategy.
 	top level domains and targeting on Google Search Console.
 
 ## 8. Be Noticed With Search Ads
-- In an auction, a the winning bidder appears in the top position. 
+- In an auction, the winning bidder appears in the top position. 
 - Max Cost Per Click (CPC) is the highest bid you are willing to make. 
 - A keyword can be a group of words. 
 - A keyword can be used as an advert heading. 
@@ -92,10 +92,10 @@ part of a business strategy.
 - A broad match allows for variations that are more 
 	variable than simple plurals. 
 - An example of wide to narrow targeting: 
-	1. 'Photography and portraits'
-	2. 'Portrait photography studio'
-	3. 'Movie themed portrait photography'
-	4. 'Film themed portrait photography, low cost'
+	1. 'Photography and portraits'.
+	2. 'Portrait photography studio'.
+	3. 'Movie themed portrait photography'.
+	4. 'Film themed portrait photography, low cost'.
 
 ## 10. Get Noticed Locally
 - Get a presence on maps. 
@@ -103,8 +103,8 @@ part of a business strategy.
 - Some directories only allow listing if a there is a physical store. 
 
 ## 11. Help People Nearby Find You
-- Advert platforms allow targeting adverts when a potential customer 
-	is close to a store
+- Advert tools allow targeting adverts when a potential customer 
+	is close to a store.
 - Ensure a site is mobile optimised. 
 
 ## 12. Get Noticed With Social Media
@@ -142,13 +142,13 @@ part of a business strategy.
 - An example of content marketing is a blog. 
 - Drop the business speak.
 - Successful content marketing achieves the following: 
-	1. Answers an the audience's questions. 
+	1. Answers the audience's questions. 
 	2. Keep the audience wanting more. 
 - Successful content marketing is also:
-	1. Entertaining
-	2. Inspiring
-	3. Educational
-	4. Convincing
+	1. Entertaining.
+	2. Inspiring.
+	3. Educational.
+	4. Convincing.
 - To segment an audience: 
 	1. Find out who the audience is.
 	2. Segment the audience into groups.
@@ -159,12 +159,12 @@ part of a business strategy.
 	hook with a call to action. 
 - When writing, ensure there is a consistent voice across publications. 
 - Content destinations include:
-	1. Owned media, e.g., the company website and social media page
-	2. Earned media, e.g, a third party such as a blogger
-	3. Paid media, e.g., adverts
+	1. Owned media, e.g., the company website and social media page.
+	2. Earned media, e.g, a third party such as a blogger.
+	3. Paid media, e.g., adverts.
 
 ## 17. Connect Through Email
-- Have a goal such as driving customers to your website. 
+- Have a goal such as driving customers to the website. 
 - Get subscribers through website forms. 
 - Use an email marketing tool that provides a contact database, 
 	forms, and email templates. 
@@ -214,7 +214,7 @@ part of a business strategy.
 - With better internet speeds and availability, video is now feasible 
 	for use in marketing from desktop to mobile. 
 - If video creation is not an option, video advertising is an option.  
-- To create your a good video:
+- To create a good video:
 	1. Have a tripod. 
 	2. Use an external mic. 
 	3. Ensure the lighting is good. 
@@ -248,7 +248,7 @@ part of a business strategy.
 - Qualitative data cannot be numerically measured. 
 - A qualitative tool example is Google Form.
 - The data cycle:
-	1. Plan, i.e. the goal. 
+	1. Plan, i.e., the goal. 
 	2. Do, i.e., launch a campaign. 
 	3. Check, i.e., check the success of the campaign. 
 	4. Act, i.e., adjust future campaigns as needed. 
@@ -257,7 +257,7 @@ part of a business strategy.
 	formatting for presentations. 
 
 ## 24. Build Your Online Shop
-- If selling items individually, i.e. not planning to offer a shopping 
+- If selling items individually, i.e., not planning to offer a shopping 
 	cart feature, a payment processing services such as PayPal can 
 	be used. 
 - Off-the-shelf e-commerce platforms are good when selling multiple 
@@ -279,7 +279,7 @@ part of a business strategy.
 	- Use Google Market Finder to see search traffic for a given 
 		term.  
 	- Use Google Keyword Planner to determine the volume of search 
-		adverts in a given location
+		adverts in a given location.
 	- Use Google Analytics to determine where website visitors are 
 		coming from. 
 - Consider the internet speeds of the target market. 
