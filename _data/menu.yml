@@ -1,0 +1,13 @@
+entries:
+  - title: info
+    url: false
+    entries:
+      - title: notes on marketing fundamentals
+        url: false
+      - title: read this about page for more info
+        url: about
+
+  - title: notes
+    post_list: true
+    url: false
+    entries: false
