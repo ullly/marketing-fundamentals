@@ -37,8 +37,8 @@ part of a business strategy.
 	characteristics. 
 - 'Touchpoints' are places a customer comes in contact with a business. 
 - Use USPs and SWOT analysis to compare competitor websites. 
-- A 'Key Performance Indicator' is a goal. It should be Specific, 
-	Measurable, Attainable, Relevant and Timely (SMART). 
+- A 'Key Performance Indicator' is a goal. It should be specific, 
+	measurable, attainable, relevant and timely (SMART). 
 
 ## 5. Get Started With Search
 - A search engine works by: 
@@ -52,7 +52,7 @@ part of a business strategy.
 - A bid (cost of a keyword) and quality (relevance to the search) 
 	determines what a paid search result shows. 
 - An organic search advert is only charged when there is a click. 
-- Google Search Console show how an advert is performing for a given 
+- Search Console shows how an advert is performing for a given 
 	search. A Crawl Report reports if pages can be crawled. 
 	An Index Report lets you know if pages are accessible. 
 
@@ -71,7 +71,7 @@ part of a business strategy.
 	page (URL) for each language. 
 - Use localisation (e.g., times, unit of measure) and country 
 	targeting features. Examples include, using a country code 
-	top level domains and targeting on Google Search Console.
+	top level domain and targeting on Google Search Console.
 
 ## 8. Be Noticed With Search Ads
 - In an auction, the winning bidder appears in the top position. 
@@ -88,7 +88,7 @@ part of a business strategy.
 - A keyword planner and keyword selector are examples of tools 
 	provided by advert platforms. 
 - Start small by targeting an advert with an exact match. 
-- A Phrase match is a collection of words. 
+- A phrase match is a collection of words. 
 - A broad match allows for variations that are more 
 	variable than simple plurals. 
 - An example of wide to narrow targeting: 
@@ -121,7 +121,7 @@ part of a business strategy.
 - Advertising can be used to target very specific audiences. 
 - Advertising on social media include paid promotions. 
 - Tools provided by the networks, third party social management 
-	tools and website analytics tools can be used measure success. 
+	tools and website analytics tools can be used to measure success. 
 - Avoid making a sales pitch and don't spread too thin 
 	across too many networks.
 
@@ -133,7 +133,7 @@ part of a business strategy.
 ## 15. Make Mobile Work for You
 - Mobile browsing is more popular than desktop browsing. 
 - Use short keywords for mobile advert campaigns. 
-- Bid adjustment can be used to direct spend for add campaigns across 
+- Bid adjustment can be used to direct spend for advert campaigns across 
 	device types. 
 - As well as websites, display adverts can be placed on mobile apps. 
 - Short videos are best for mobile.  
@@ -143,7 +143,7 @@ part of a business strategy.
 - Drop the business speak.
 - Successful content marketing achieves the following: 
 	1. Answers the audience's questions. 
-	2. Keep the audience wanting more. 
+	2. Keeps the audience wanting more. 
 - Successful content marketing is also:
 	1. Entertaining.
 	2. Inspiring.
@@ -167,10 +167,10 @@ part of a business strategy.
 - Have a goal such as driving customers to the website. 
 - Get subscribers through website forms. 
 - Use an email marketing tool that provides a contact database, 
-	forms, and email templates. 
+	forms and email templates. 
 - Ensure:
 	1. The email is a business email. 
-	2. The subject line is short, simple, and non-spam worded.
+	2. The subject line is short, simple and non-spam worded.
 	3. The paragraphs are short. 
 	4. There is a CTA. 
 	5. The layout is simple, clear and consistent across all emails.
@@ -194,7 +194,7 @@ part of a business strategy.
 
 ## 18. Advertise on Other Websites
 - Display advertising is advertising on other websites. 
-- A advert deal can be made directly with a website, 
+- An advert deal can be made directly with a website, 
 	or an advertising network can be used that will match an advert
 	 to an appropriate website. 
 
@@ -235,7 +235,6 @@ part of a business strategy.
 - Dimensions can slice metrics. 
 - An example dimension is a visitor's device type. 
 - An example conversion is subscribing to a newsletter. 
-- An example of a dimension are users who access a website by mobile. 
 
 ## 22. Find Success with Analytics
 - Using Google Analytics, which integrates with Google Ads, can 
@@ -246,7 +245,7 @@ part of a business strategy.
 - Quantitative data is anything that can be numerically measured. 
 - A quantitative data tool example is Google Analytics. 
 - Qualitative data cannot be numerically measured. 
-- A qualitative tool example is Google Form.
+- A qualitative tool example is Google Forms.
 - The data cycle:
 	1. Plan, i.e., the goal. 
 	2. Do, i.e., launch a campaign. 
@@ -258,7 +257,7 @@ part of a business strategy.
 
 ## 24. Build Your Online Shop
 - If selling items individually, i.e., not planning to offer a shopping 
-	cart feature, a payment processing services such as PayPal can 
+	cart feature, a payment processing service such as PayPal can 
 	be used. 
 - Off-the-shelf e-commerce platforms are good when selling multiple 
 	items. 
