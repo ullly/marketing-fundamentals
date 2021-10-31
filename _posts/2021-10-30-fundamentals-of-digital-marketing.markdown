@@ -9,7 +9,7 @@ categories: marketing
 - Make a plan that considers scope, content, technology, time and cost. 
 
 ## 2. Your First Steps in Online Success
-- Establish what you want to achieve. 
+- Establish a goal. 
 - Start small and work in increments. 
 - Search Engine Optimisation (SEO) is free. 
 - Search Engine Marketing (SEM) is paid. 
@@ -53,7 +53,7 @@ part of a business strategy.
 	determines what a paid search result shows. 
 - An organic search advert is only charged when there is a click. 
 - Use Search Console. A Crawl Report reports if pages can be crawled. 
-	An Index Report lets you know if pages are accessible. 
+	An Index Report reports if pages are accessible. 
 
 ## 6. Get Discovered With Search
 - Long tail keywords are less popular keywords. It is easier to 
@@ -74,7 +74,7 @@ part of a business strategy.
 
 ## 8. Be Noticed With Search Ads
 - In an auction, the winning bidder appears in the top position. 
-- Max Cost Per Click (CPC) is the highest bid you are willing to make. 
+- Max Cost Per Click (CPC) sets the max possible bid. 
 - A keyword can be a group of words. 
 - A keyword can be used as an advert heading. 
 - An advert should have a CTA.  
