@@ -52,8 +52,7 @@ part of a business strategy.
 - A bid (cost of a keyword) and quality (relevance to the search) 
 	determines what a paid search result shows. 
 - An organic search advert is only charged when there is a click. 
-- Search Console shows how an advert is performing for a given 
-	search. A Crawl Report reports if pages can be crawled. 
+- Use Search Console. A Crawl Report reports if pages can be crawled. 
 	An Index Report lets you know if pages are accessible. 
 
 ## 6. Get Discovered With Search
@@ -100,7 +99,7 @@ part of a business strategy.
 ## 10. Get Noticed Locally
 - Get a presence on maps. 
 - Get featured in local directories. 
-- Some directories only allow listing if a there is a physical store. 
+- Some directories only allow listing if there is a physical store. 
 
 ## 11. Help People Nearby Find You
 - Advert tools allow targeting adverts when a potential customer 
